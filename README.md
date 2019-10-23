@@ -31,7 +31,8 @@ BCMath PHP Extension
 You can check all the laravel relate
 
 <h1>API Endpoints and Routes</h1>
-Show: http://localhost:8000/api/products
+
+SHOW: http://localhost:8000/api/products
 
 POST | api/products
 
