@@ -1,5 +1,5 @@
 # Laravel 6 REST API CRUD
-Laravel api rest crud blog application with add edit and delete function
+Laravel api rest crud blog application with add, edit and delete function
 
 ## Prerequisite
 As it is build on the Laravel framework, it has a few system requirements. Of course, all of these requirements are satisfied by the Laravel Homestead virtual machine, so it's highly recommended that you use Homestead as your local Laravel development environment.
